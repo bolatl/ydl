@@ -15,6 +15,8 @@ venv/
 
 # Generated artifacts
 day1/cup.png
+day5/chroma_db/
+day5/bot_memory.sqlite
 
 # macOS
 .DS_Store
