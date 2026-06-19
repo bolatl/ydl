@@ -1,2 +1,23 @@
+.ipynb_checkpoints/
+# Secrets — never commit real keys
+.env
+creds.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtualenv
 .venv/
-.venv
+venv/
+
+# Generated artifacts
+day1/cup.png
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
